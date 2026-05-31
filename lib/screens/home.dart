@@ -5,7 +5,7 @@ import 'exercise_3.dart';
 import 'exercise_4.dart';
 import 'exercise_5.dart';
 
-class Home extends StatelessWidget { // <--- class Home ở đây nè
+class Home extends StatelessWidget { 
   const Home({super.key});
 
   @override
