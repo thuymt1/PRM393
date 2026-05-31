@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Exercise1 extends StatelessWidget { // Đã đổi tên class thành Exercise1
+class Exercise1 extends StatelessWidget {
   const Exercise1({super.key});
 
   @override
