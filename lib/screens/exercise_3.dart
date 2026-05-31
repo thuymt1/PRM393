@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/movie_card.dart';
 
-class Exercise3 extends StatelessWidget { // Đã đổi tên class thành Exercise3
+class Exercise3 extends StatelessWidget { 
   const Exercise3({super.key});
 
   final List<Map<String, String>> movies = const [
