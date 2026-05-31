@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class MovieCard extends StatelessWidget { // <--- Phải có class tên chính xác là MovieCard
+class MovieCard extends StatelessWidget { 
   final String title;
   final String description;
 
